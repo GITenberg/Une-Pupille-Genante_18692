@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8193'
     url: http://www.gutenberg.org/2009/agents/8193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18692#Une-Pupille-Genante
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-06-26'
 gutenberg_type: Text

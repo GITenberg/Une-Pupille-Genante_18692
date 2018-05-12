@@ -1,0 +1,30 @@
+_repo: Une-Pupille-Genante_18692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dombre, Roger
+    aliases:
+    - Sisson, Andrée
+    - Sisson, Andree
+    birthdate: 1859
+    deathdate: 1914
+    gutenberg_agent_id: '8193'
+    url: http://www.gutenberg.org/2009/agents/8193
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18692'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Une Pupille Genante
+url: http://www.gutenberg.org/ebooks/18692
